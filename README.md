@@ -1,7 +1,7 @@
 # bertie-brain
 
 ## Bertir-Brain Game
-## Bertir-Brain is a simple game written in Java. The objective of the game is to guess a randomly generated number between 1 and 100 in as few attempts as possible.
+## Bertir-Brain is a simple game written in Java.
 
 ## How to play
 Run the Main.java file in your preferred Java development environment or from the command line.
